@@ -2,7 +2,7 @@
 The main class is com.mainApp  
 
 Group members:  
-1.Aima Aimaduddin Bin Bollhasan 65332  
+1. Aima Aimaduddin Bin Bollhasan 65332  
 2. Milton Bruen Ak Pali 	66645  
 3. Mohd Faizal Bin Mohd Bujang 	68268  
 4. Lau Ngie Hing 		66424  
